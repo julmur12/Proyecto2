@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Prueba_Inicio" verbose="1" parallel="tests"
+    preserver-order ="true">
+    <test name="HUAWEI P8- GMALV">
+         <parameter name="UID" value="S7M0215A30005789" />
+         <parameter name="DEVICE" value="HUAWEI GR" />
+         <parameter name="USER" value="441" />
+         <parameter name="DATA" value="false" />
+         <classes>
+             <class name="ProyectoMovil.Automatizacion.Ejecutar.Pruebas.EjecucionInicioPrueba" />
+         </classes>
+    </test>
+</suite> <!-- PruebaInicio -->

@@ -1,0 +1,274 @@
+2018-02-26 12:26:25:025 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-02-26 12:26:25:025 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----S7M0215A30005789---- Error en Error _BEFORE_N1
+
+2018-02-26 12:26:25:025 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-34d946a6-0509-4176-bb39-92e8b88f0dbb Settings: {"ignoreUnimportantViews":false}
+2018-02-26 12:26:28:028 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: 
+----------------------------------------------------------------------
+
+2018-02-26 12:26:28:028 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: LA HORIENTACION ES: PORTRAIT
+2018-02-26 12:32:38:038 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-02-26 12:32:38:038 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: HUAWEI GR termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-05 12:33:58:058 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-05 12:33:58:058 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----S7M0215A30005789---- Error en Error _BEFORE_N1
+
+2018-03-05 12:33:58:058 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-924a5548-249c-4a9e-925c-9d6efc70e56d Settings: {"ignoreUnimportantViews":false}
+2018-03-05 12:33:59:059 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: 
+----------------------------------------------------------------------
+
+2018-03-05 12:33:59:059 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: LA HORIENTACION ES: PORTRAIT
+2018-03-05 12:41:29:029 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-05 12:41:29:029 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----S7M0215A30005789---- Error en Error _BEFORE_N1
+
+2018-03-05 12:41:29:029 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-58b2f13c-155b-4a05-8352-2f2583c46ba4 Settings: {"ignoreUnimportantViews":false}
+2018-03-05 12:41:51:051 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: 
+----------------------------------------------------------------------
+
+2018-03-05 12:41:51:051 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: -----S7M0215A30005789---- Error en IniciarSesion
+
+2018-03-05 12:41:51:051 - [ERROR] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: NE37: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: Locator map: 
+- native content: "By.id: usernameEditText" 
+- html content: "by id or name "campoUserLoggin""
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'OCTI098', ip: '10.10.2.240', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: driver.version: unknown
+2018-03-05 12:41:51:051 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-05 12:41:51:051 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: HUAWEI GR termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-06 11:02:11:011 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:02:11:011 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----S7M0215A30005789---- Error en Error _BEFORE_N1
+
+2018-03-06 11:02:11:011 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-469e0ce8-a5c1-4884-8159-85cf8fb551f6 Settings: {"ignoreUnimportantViews":false}
+2018-03-06 11:02:36:036 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: 
+----------------------------------------------------------------------
+
+2018-03-06 11:02:36:036 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: -----S7M0215A30005789---- Error en IniciarSesion
+
+2018-03-06 11:02:36:036 - [ERROR] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: NE37: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: Locator map: 
+- native content: "By.id: usernameEditText" 
+- html content: "by id or name "campoUserLoggin""
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'OCTI098', ip: '10.10.3.145', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: driver.version: unknown
+2018-03-06 11:02:36:036 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:02:36:036 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: HUAWEI GR termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-06 11:03:59:059 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:03:59:059 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----S7M0215A30005789---- Error en Error _BEFORE_N1
+
+2018-03-06 11:03:59:059 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-88f40c3c-2619-4151-9141-886fc5d13cef Settings: {"ignoreUnimportantViews":false}
+2018-03-06 11:04:28:028 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: 
+----------------------------------------------------------------------
+
+2018-03-06 11:04:28:028 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: -----S7M0215A30005789---- Error en IniciarSesion
+
+2018-03-06 11:04:28:028 - [ERROR] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: NE37: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: Locator map: 
+- native content: "By.id: usernameEditText" 
+- html content: "by id or name "campoUserLoggin""
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'OCTI098', ip: '10.10.3.145', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: driver.version: unknown
+2018-03-06 11:04:28:028 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:04:28:028 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: HUAWEI GR termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-06 11:31:22:022 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:31:22:022 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----S7M0215A30005789---- Error en Error _BEFORE_N1
+
+2018-03-06 11:31:22:022 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-1694a8e3-cc65-490c-a734-5019bc937470 Settings: {"ignoreUnimportantViews":false}
+2018-03-06 11:31:53:053 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: 
+----------------------------------------------------------------------
+
+2018-03-06 11:31:53:053 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: -----S7M0215A30005789---- Error en IniciarSesion
+
+2018-03-06 11:31:53:053 - [ERROR] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: NE37: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: Locator map: 
+- native content: "By.id: usernameEditText" 
+- html content: "by id or name "campoUserLoggin""
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'OCTI098', ip: '10.10.3.145', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: driver.version: unknown
+2018-03-06 11:31:54:054 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:31:54:054 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: HUAWEI GR termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-06 11:33:39:039 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:33:39:039 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----S7M0215A30005789---- Error en Error _BEFORE_N1
+
+2018-03-06 11:33:39:039 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-3faf2017-8554-4fea-800b-b678632a083f Settings: {"ignoreUnimportantViews":false}
+2018-03-06 11:34:32:032 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: 
+----------------------------------------------------------------------
+
+2018-03-06 11:34:32:032 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: -----S7M0215A30005789---- Error en IniciarSesion
+
+2018-03-06 11:34:32:032 - [ERROR] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: NE37: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: Locator map: 
+- native content: "By.id: usernameEditText" 
+- html content: "by id or name "campoUserLoggin""
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'OCTI098', ip: '10.10.3.145', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: driver.version: unknown
+2018-03-06 11:34:33:033 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:34:33:033 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: HUAWEI GR termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-06 11:38:41:041 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:38:41:041 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----S7M0215A30005789---- Error en Error _BEFORE_N1
+
+2018-03-06 11:38:41:041 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-05535772-cdf3-40fc-9ae1-1dc56364d316 Settings: {"ignoreUnimportantViews":false}
+2018-03-06 11:39:53:053 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: 
+----------------------------------------------------------------------
+
+2018-03-06 11:39:53:053 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: -----S7M0215A30005789---- Error en IniciarSesion
+
+2018-03-06 11:39:53:053 - [ERROR] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: NE37: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: Locator map: 
+- native content: "By.id: usernameEditText" 
+- html content: "by id or name "campoUserLoggin""
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'OCTI098', ip: '10.10.3.145', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: driver.version: unknown
+2018-03-06 11:39:53:053 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:39:53:053 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: HUAWEI GR termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-06 11:42:51:051 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:42:51:051 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----S7M0215A30005789---- Error en Error _BEFORE_N1
+
+2018-03-06 11:42:51:051 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-3e4f468a-7caa-4bef-820a-65e38bf8407a Settings: {"ignoreUnimportantViews":false}
+2018-03-06 11:45:48:048 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: 
+----------------------------------------------------------------------
+
+2018-03-06 11:45:48:048 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: -----S7M0215A30005789---- Error en IniciarSesion
+
+2018-03-06 11:45:48:048 - [ERROR] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: NE2: org.openqa.selenium.remote.SessionNotFoundException: A session is either terminated or not started (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 21 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'OCTI098', ip: '10.10.3.145', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=fi.cr.gmalv.mutualmovil.activities, server:CONFIG_UUID=aa9023e2-01f1-4190-be90-dcd76a94758d, deviceScreenSize=1080x1920, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=S7M0215A30005789, platform=LINUX, deviceUDID=S7M0215A30005789, appActivity=.MenuActivity, desired={appActivity=.MenuActivity, appPackage=fi.cr.gmalv.mutualmovil.activities, server:CONFIG_UUID=aa9023e2-01f1-4190-be90-dcd76a94758d, browserName=ANDROID, platformName=android, udid=S7M0215A30005789, deviceName=S7M0215A30005789}, platformVersion=6.0, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, browserName=ANDROID, javascriptEnabled=true, deviceModel=HUAWEI GRA-L09, platformName=android, udid=S7M0215A30005789, deviceManufacturer=HUAWEI}]
+Session ID: 3e4f468a-7caa-4bef-820a-65e38bf8407a
+2018-03-06 11:45:48:048 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:45:48:048 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: HUAWEI GR termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-06 11:45:48:048 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:45:48:048 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----S7M0215A30005789---- Error en Error Afther
+
+2018-03-06 11:45:48:048 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: NE2: org.openqa.selenium.WebDriverException: Session [3e4f468a-7caa-4bef-820a-65e38bf8407a] was terminated due to BROWSER_TIMEOUT
+Command duration or timeout: 20 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'OCTI098', ip: '10.10.3.145', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=fi.cr.gmalv.mutualmovil.activities, server:CONFIG_UUID=aa9023e2-01f1-4190-be90-dcd76a94758d, deviceScreenSize=1080x1920, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=S7M0215A30005789, platform=LINUX, deviceUDID=S7M0215A30005789, appActivity=.MenuActivity, desired={appActivity=.MenuActivity, appPackage=fi.cr.gmalv.mutualmovil.activities, server:CONFIG_UUID=aa9023e2-01f1-4190-be90-dcd76a94758d, browserName=ANDROID, platformName=android, udid=S7M0215A30005789, deviceName=S7M0215A30005789}, platformVersion=6.0, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, browserName=ANDROID, javascriptEnabled=true, deviceModel=HUAWEI GRA-L09, platformName=android, udid=S7M0215A30005789, deviceManufacturer=HUAWEI}]
+Session ID: 3e4f468a-7caa-4bef-820a-65e38bf8407a
+2018-03-06 11:51:48:048 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:51:48:048 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----S7M0215A30005789---- Error en Error _BEFORE_N1
+
+2018-03-06 11:51:48:048 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-277c9b23-335d-4ecc-a9b9-0299a75e06c5 Settings: {"ignoreUnimportantViews":false}
+2018-03-06 11:54:39:039 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: 
+----------------------------------------------------------------------
+
+2018-03-06 11:54:39:039 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: -----S7M0215A30005789---- Error en IniciarSesion
+
+2018-03-06 11:54:39:039 - [ERROR] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: NE2: org.openqa.selenium.remote.SessionNotFoundException: A session is either terminated or not started (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 33 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'OCTI098', ip: '10.10.3.145', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=fi.cr.gmalv.mutualmovil.activities, server:CONFIG_UUID=7fb26ef5-bffa-474e-8c64-11b3fe8e4913, deviceScreenSize=1080x1920, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=S7M0215A30005789, platform=LINUX, deviceUDID=S7M0215A30005789, appActivity=.MenuActivity, desired={appActivity=.MenuActivity, appPackage=fi.cr.gmalv.mutualmovil.activities, server:CONFIG_UUID=7fb26ef5-bffa-474e-8c64-11b3fe8e4913, browserName=ANDROID, platformName=android, udid=S7M0215A30005789, deviceName=S7M0215A30005789}, platformVersion=6.0, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, browserName=ANDROID, javascriptEnabled=true, deviceModel=HUAWEI GRA-L09, platformName=android, udid=S7M0215A30005789, deviceManufacturer=HUAWEI}]
+Session ID: 277c9b23-335d-4ecc-a9b9-0299a75e06c5
+2018-03-06 11:54:40:040 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:54:40:040 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: HUAWEI GR termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-06 11:54:40:040 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-06 11:54:40:040 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----S7M0215A30005789---- Error en Error Afther
+
+2018-03-06 11:54:40:040 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: NE2: org.openqa.selenium.WebDriverException: Session [277c9b23-335d-4ecc-a9b9-0299a75e06c5] was terminated due to BROWSER_TIMEOUT
+Command duration or timeout: 26 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'OCTI098', ip: '10.10.3.145', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=fi.cr.gmalv.mutualmovil.activities, server:CONFIG_UUID=7fb26ef5-bffa-474e-8c64-11b3fe8e4913, deviceScreenSize=1080x1920, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=S7M0215A30005789, platform=LINUX, deviceUDID=S7M0215A30005789, appActivity=.MenuActivity, desired={appActivity=.MenuActivity, appPackage=fi.cr.gmalv.mutualmovil.activities, server:CONFIG_UUID=7fb26ef5-bffa-474e-8c64-11b3fe8e4913, browserName=ANDROID, platformName=android, udid=S7M0215A30005789, deviceName=S7M0215A30005789}, platformVersion=6.0, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, browserName=ANDROID, javascriptEnabled=true, deviceModel=HUAWEI GRA-L09, platformName=android, udid=S7M0215A30005789, deviceManufacturer=HUAWEI}]
+Session ID: 277c9b23-335d-4ecc-a9b9-0299a75e06c5
+2018-03-07 10:12:57:057 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 10:12:57:057 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----S7M0215A30005789---- Error en Error _BEFORE_N1
+
+2018-03-07 10:12:57:057 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-b28d11ed-75f5-45d4-9966-952eb322ebe1 Settings: {"ignoreUnimportantViews":false}
+2018-03-07 10:15:10:010 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 10:15:10:010 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----S7M0215A30005789---- Error en Error _BEFORE_N1
+
+2018-03-07 10:15:10:010 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: N1: Se inicia el corrido SIN AUTORIZACION del STF AUTORIZACION-6c75807a-f6a6-4b9c-a351-f36d23b863eb Settings: {"ignoreUnimportantViews":false}
+2018-03-07 10:17:54:054 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: 
+----------------------------------------------------------------------
+
+2018-03-07 10:17:54:054 - [INFO ] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: -----S7M0215A30005789---- Error en IniciarSesion
+
+2018-03-07 10:17:54:054 - [ERROR] - ProyectoMovil.Automatizacion.Componentes.Pruebas.AccionesUniversales: NE2: org.openqa.selenium.remote.SessionNotFoundException: A session is either terminated or not started (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 38 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'OCTI098', ip: '10.10.3.145', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=fi.cr.gmalv.mutualmovil.activities, server:CONFIG_UUID=97232d0f-edcc-4ae4-bb66-9fb2af295a08, deviceScreenSize=1080x1920, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=S7M0215A30005789, platform=LINUX, deviceUDID=S7M0215A30005789, appActivity=.MenuActivity, desired={appActivity=.MenuActivity, appPackage=fi.cr.gmalv.mutualmovil.activities, server:CONFIG_UUID=97232d0f-edcc-4ae4-bb66-9fb2af295a08, browserName=ANDROID, platformName=android, udid=S7M0215A30005789, deviceName=S7M0215A30005789}, platformVersion=6.0, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, browserName=ANDROID, javascriptEnabled=true, deviceModel=HUAWEI GRA-L09, platformName=android, udid=S7M0215A30005789, deviceManufacturer=HUAWEI}]
+Session ID: 6c75807a-f6a6-4b9c-a351-f36d23b863eb
+2018-03-07 10:17:54:054 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 10:17:54:054 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: --->Dispositivo: HUAWEI GR termina la ejecucion de sus pruebas sin ir a base de datos<---
+
+2018-03-07 10:17:54:054 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: 
+----------------------------------------------------------------------
+
+2018-03-07 10:17:54:054 - [INFO ] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: -----S7M0215A30005789---- Error en Error Afther
+
+2018-03-07 10:17:54:054 - [ERROR] - ProyectoMovil.Automatizacion.Utilitario.AbstractTest: NE2: org.openqa.selenium.WebDriverException: Session [6c75807a-f6a6-4b9c-a351-f36d23b863eb] was terminated due to BROWSER_TIMEOUT
+Command duration or timeout: 40 milliseconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'OCTI098', ip: '10.10.3.145', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities [{appPackage=fi.cr.gmalv.mutualmovil.activities, server:CONFIG_UUID=97232d0f-edcc-4ae4-bb66-9fb2af295a08, deviceScreenSize=1080x1920, networkConnectionEnabled=true, warnings={}, databaseEnabled=false, deviceName=S7M0215A30005789, platform=LINUX, deviceUDID=S7M0215A30005789, appActivity=.MenuActivity, desired={appActivity=.MenuActivity, appPackage=fi.cr.gmalv.mutualmovil.activities, server:CONFIG_UUID=97232d0f-edcc-4ae4-bb66-9fb2af295a08, browserName=ANDROID, platformName=android, udid=S7M0215A30005789, deviceName=S7M0215A30005789}, platformVersion=6.0, webStorageEnabled=false, locationContextEnabled=false, takesScreenshot=true, browserName=ANDROID, javascriptEnabled=true, deviceModel=HUAWEI GRA-L09, platformName=android, udid=S7M0215A30005789, deviceManufacturer=HUAWEI}]
+Session ID: 6c75807a-f6a6-4b9c-a351-f36d23b863eb

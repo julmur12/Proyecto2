@@ -1,0 +1,6 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Pruebas generales">
+	<site-files>
+		<suite-file path="src/test/resources/Prueba_Inicio.xml" />
+	</site-files>
+</suite>
